@@ -1,0 +1,7 @@
+<hibernate-mapping>
+<class name="org.FirstApp.entity.Student" table="gani">
+<id name="id"/>
+<property name="name"/>
+<property name="email"/>
+</class>
+</hibernate-mapping>
